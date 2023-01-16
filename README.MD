@@ -65,6 +65,15 @@
 ## Embeddings
 - [Nerfgun3's bad_prompt](https://huggingface.co/datasets/Nerfgun3/bad_prompt)
 - [nick-x-hacker's bad-artist](https://huggingface.co/nick-x-hacker/bad-artist)
+- [Makima Character Embedding](https://github.com/RavgoYT/ColabNotebooks/blob/main/Embeddings/makima.pt)
+- [Yor_forger Character Embedding](https://github.com/RavgoYT/ColabNotebooks/blob/main/Embeddings/yor_forger.pt)
+- [Made by sciamano Artstyle Embedding](https://github.com/RavgoYT/ColabNotebooks/blob/main/Embeddings/sciamano.pt)
+
+## Reccomended Models
+- [JWST-Deep-Space](https://huggingface.co/dallinmackay/JWST-Deep-Space-diffusion)
+- [Kenshi](https://civitai.com/models/3850/kenshi)
+- [SamDoesArt Artstyle](https://civitai.com/models/1097/jhs-samdoesarts)
+
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
