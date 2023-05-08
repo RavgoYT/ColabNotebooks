@@ -220,8 +220,8 @@ def embeddings_list():
     'https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/embedding/EasyNegativeV2.safetensors',
     'https://huggingface.co/yesyeahvh/bad-hands-5/resolve/main/bad-hands-5.pt',
     'https://huggingface.co/Xynon/models/resolve/main/experimentals/TI/bad-image-v2-39000.pt',
-    'https://huggingface.co/SweetLuna/Aurora/blob/main/AuroraEmbeddings/AuroraNegative.pt',
-    'https://huggingface.co/SweetLuna/Aurora/blob/main/AuroraEmbeddings/KHFB.pt'
+    'https://huggingface.co/SweetLuna/Aurora/resolve/main/AuroraEmbeddings/AuroraNegative.pt',
+    'https://huggingface.co/SweetLuna/Aurora/resolve/main/AuroraEmbeddings/KHFB.pt'
   ]
 
 def lora_list():
