@@ -17,6 +17,7 @@ disabled_logging = False
 web_ui_folder = '/content/stable-diffusion-webui'
 models_folder = f'{web_ui_folder}/models/Stable-diffusion'
 vae_folder = f'{web_ui_folder}/models/VAE'
+lora_folder = f'{web_ui_folder}/models/Lora'
 embeddings_folder = f'{web_ui_folder}/embeddings'
 extensions_folder = f'{web_ui_folder}/extensions'
 controlnet_folder = f'{extensions_folder}/controlnet'
@@ -25,6 +26,8 @@ controlnet_models_folder = f'{controlnet_folder}/models'
 # variables for PYOM and UWUColab
 model_download_folder = '/content/models'
 vae_download_folder = '/content/VAE'
+lora_download_folder = '/content/Lora'
+
 
 def dictionary_to_json(json_file, data_dictionary):
   with open(json_file, 'r') as f:
@@ -219,6 +222,12 @@ def embeddings_list():
     'https://huggingface.co/Xynon/models/resolve/main/experimentals/TI/bad-image-v2-39000.pt',
     'https://huggingface.co/SweetLuna/Aurora/blob/main/AuroraEmbeddings/AuroraNegative.pt',
     'https://huggingface.co/SweetLuna/Aurora/blob/main/AuroraEmbeddings/KHFB.pt'
+  ]
+
+def lora_list():
+  print('💉 Fetching lora...')
+  return [
+    'https://huggingface.co/Surficialruby/RandomMixes/blob/main/_ANE_Pruned-clip-fix.safetensors',
   ]
 
 def configs_list():
