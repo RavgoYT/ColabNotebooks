@@ -228,6 +228,12 @@ def lora_list():
   print('💉 Fetching lora...')
   return [
     'https://huggingface.co/Surficialruby/RandomMixes/blob/main/_ANE_Pruned-clip-fix.safetensors',
+    'https://huggingface.co/datasets/Ravgo/CharacterLoras/blob/main/EmiliaV25-08.safetensors',
+    'https://huggingface.co/datasets/Ravgo/CharacterLoras/blob/main/ai_hoshino_v2.5-very-hard.safetensors',
+    'https://huggingface.co/datasets/Ravgo/CharacterLoras/blob/main/love%20is%20war.safetensors',
+    'https://huggingface.co/datasets/Ravgo/CharacterLoras/blob/main/newsaber.safetensors',
+    'https://huggingface.co/datasets/Ravgo/CharacterLoras/blob/main/ruby%20hoshino%20v2.safetensors',
+    'https://huggingface.co/datasets/Ravgo/CharacterLoras/blob/main/tsukasa_tonikawa-08.safetensors',
   ]
 
 def configs_list():
