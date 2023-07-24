@@ -221,7 +221,9 @@ def embeddings_list():
     'https://huggingface.co/yesyeahvh/bad-hands-5/resolve/main/bad-hands-5.pt',
     'https://huggingface.co/Xynon/models/resolve/main/experimentals/TI/bad-image-v2-39000.pt',
     'https://huggingface.co/SweetLuna/Aurora/resolve/main/AuroraEmbeddings/AuroraNegative.pt',
-    'https://huggingface.co/SweetLuna/Aurora/resolve/main/AuroraEmbeddings/KHFB.pt'
+    'https://huggingface.co/SweetLuna/Aurora/resolve/main/AuroraEmbeddings/KHFB.pt',
+    'https://huggingface.co/AsciiP/DeepNegative/blob/main/ng_deepnegative_v1_75t.pt',
+    'https://huggingface.co/AsciiP/badhandv4/blob/main/badhandv4.pt',
   ]
 
 def lora_list():
