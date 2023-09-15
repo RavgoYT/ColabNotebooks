@@ -5,7 +5,6 @@
 [![Open In Colab][colab-icon]][av3] | Anything V3 | [🤗Linaqruf/anything-v3.0](https://huggingface.co/Linaqruf/anything-v3.0) | 1 
 [![Open In Colab][colab-icon]][ead] | Eimis Anime Diffusion | [🤗eimiss/EimisAnimeDiffusion_1.0v](https://huggingface.co/eimiss/EimisAnimeDiffusion_1.0v) | 1
 [![Open In Colab][colab-icon]][eam] | Elysium Anime v1 - v3 | [🤗hesw23168/SD-Elysium-Model](https://huggingface.co/hesw23168/SD-Elysium-Model) | 3 (1)*
-[![Open In Colab][colab-icon]][hd]  | Hentai Diffusion 16 - 17 | [🤗Deltaadams/HentaiDiffusion](https://huggingface.co/Deltaadams/HentaiDiffusion) | 2 (1)*
 [![Open In Colab][colab-icon]][wd]  | Waifu Diffusion v1.3 - v1.4 | [🤗hakurei/waifu-diffusion](https://huggingface.co/hakurei/waifu-diffusion) | 3 (1)*
 
 ## Finetunes
@@ -20,7 +19,6 @@
 ## Mixed Models
 | Colab Link | Model | Model Page | # of Models 
 | --- | --- | --- | --- |
-[![Open In Colab][colab-icon]][agmx] | AnyGape Mix | [🤗etherealxx/anygape-mix](https://huggingface.co/etherealxx/anygape-mix) | 2
 [![Open In Colab][colab-icon]][amx]  | Anything Mix | [🤗NUROISEA/anything-mix](https://huggingface.co/NUROISEA/anything-mix) | 9
 [![Open In Colab][colab-icon]][av4]  | Anything "V4" | [🤗andite/anything-v4.0](https://huggingface.co/andite/anything-v4.0) | 2 (1)*
 [![Open In Colab][colab-icon]][dbmx] | DrBob2142's Mix Models | [🤗DrBob2142/Mix-Models](https://huggingface.co/DrBob2142/Mix-Models) | 12 (5)*
@@ -69,7 +67,7 @@
 - [Yor_forger Character Embedding](https://github.com/RavgoYT/ColabNotebooks/blob/main/Embeddings/yor_forger.pt)
 - [Made by sciamano Artstyle Embedding](https://github.com/RavgoYT/ColabNotebooks/blob/main/Embeddings/sciamano.pt)
 
-## Reccomended Models
+## Reccommended Models
 - [JWST-Deep-Space](https://huggingface.co/dallinmackay/JWST-Deep-Space-diffusion)
 - [Kenshi](https://civitai.com/models/3850/kenshi)
 - [SamDoesArt Artstyle](https://civitai.com/models/1097/jhs-samdoesarts)
